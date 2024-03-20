@@ -1,0 +1,13 @@
+Test Name: Dataset
+
+Number of Images: -1
+Number of Epochs: 100
+
+Elapsed Time: 0:00:01:01
+
+Start Date: Mar 19, 2024 02:51:52 PM
+End Date: Mar 19, 2024 02:52:53 PM
+
+K: 1
+Avg loss: 0.2031515442602271
+Times K has been chosen: 1.0 
